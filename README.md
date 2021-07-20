@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything, let me know if I can be of assistance!
 - 📫 Reach me at contact@martintaylor.dev
 <br />
-<table width="100%" style="border-radius: 6px"> 
+<table width="100%"> 
   <tr>
   <td width="50%">
       
@@ -20,7 +20,3 @@
 </p>
   </td>
   </table>
-
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
-
