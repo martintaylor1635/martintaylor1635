@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything, let me know if I can be of assistance!
 - 📫 Reach me at contact@martintaylor.dev
 <br />
-<table width="100%"> 
+<table width="100%" style="border-radius: 6px"> 
   <tr>
   <td width="50%">
       
