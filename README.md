@@ -12,11 +12,15 @@
 
   </td>
   <td width="50%">
-<br><p align="center">Thank you for checking out my GitHub, if you have any queries please do not hesitate to send me an email!<br><br>
+
+<br><p align="center">Thank you for checking out my GitHub, if you have any queries, please do not hesitate to get in touch.<br><br>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/martintaylor1635)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/FFTqj9Xk)
-  [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/martintaylor.dev)
   [![Visits](https://komarev.com/ghpvc/?username=novatorem&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/martintaylor1635)
 </p>
   </td>
   </table>
+
+[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+[//]: <> (Old Visits: https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
+
