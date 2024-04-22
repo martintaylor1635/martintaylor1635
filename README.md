@@ -2,4 +2,4 @@
 
 ### Repository key (within descriptions):
 * **🧪 Experimental** indicates that the repository **will never be maintained**.
-* **🔥 Official** indicates that the repository **will be maintained**. 
+* **🔥 Active** indicates that the repository **will be maintained**. 
